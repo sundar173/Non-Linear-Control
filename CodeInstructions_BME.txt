@@ -1,0 +1,5 @@
+Instructions to run the code
+
+1. you can directly run the simulink file
+2. You can run the BME_project_RunFile --- Run each section one by one each corresponding to one controller
+This file calls the simulink files and displays all the plots.
